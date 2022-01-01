@@ -20,8 +20,9 @@
 - Visual Studio 2019  
 - Visual C++  
 
-## ライセンス License
+## ライセンスと著作権 License and Copyright
 - MIT License  
+- (c) 2021 Z1000R
 
 ## 実行サンプル Sample Image
 通常状態  
